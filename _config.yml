@@ -1,7 +1,7 @@
 name: Last Night On Earth (LNOE)
 favicon: null
-layout_spectrum: 0.92611
-typography_spectrum: 0.22702969308011234
+layout_spectrum: 0.71172
+typography_spectrum: 0.8382
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.3515924154780805
+    - '#777777'
+    - '#000000'
+    - '#c9c9c9'
+    - '#272727'
+    - '#565656'
+  brandStrength: 0.375
   lightness: 0.4436886652838439
-  saturation: 0.4591853024903685
+  saturation: 0.125
   rhythmicContrast: 0.7699055208358914
 purpose: []
